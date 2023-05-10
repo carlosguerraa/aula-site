@@ -1,6 +1,6 @@
 header{
 
-    background:#ccccb7
+    background:#979797
 }
 
 nav li { 
@@ -22,3 +22,18 @@ nav{
     top: 0%;
     right: 0%;
 }
+
+.produtos li {
+    display: inline-block;
+    text-align: center;
+
+
+    }
+
+    .produtos{
+        width: 940px;
+        margin: 0 auto;
+    }
+
+
+
