@@ -1,0 +1,24 @@
+header{
+
+    background:#ccccb7
+}
+
+nav li { 
+    margin: 0 0 0 25px;
+    display:inline;
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 22px;
+    font-weight: bold;
+    color: black;
+    text-transform: uppercase;
+
+}
+
+nav{
+    position: absolute;
+    top: 0%;
+    right: 0%;
+}
